@@ -16,7 +16,6 @@ Muhurtha Event Planners is a premier wedding and event planning service based in
 
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- 
 ## Usage
 - Visit the website and explore our services.
 - Contact us via the provided email or phone.
